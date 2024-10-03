@@ -1,7 +1,7 @@
-In this title the traffic accidents of us are calclated and visualized ........
--This says when and what time the most accidents happen and what is the severity of the accident.
--The output also says that at wha ttime of the day most acidents happened.
--A plot also tells what is the whether conditions of the day in which most accidents took place.
+In this title the traffic accidents of us are calclated and visualized ........< br / >
+1-This says when and what time the most accidents happen and what is the severity of the accident.< br / >
+2-The output also says that at wha ttime of the day most acidents happened.< br / >
+3-A plot also tells what is the whether conditions of the day in which most accidents took place.< br / >
 
 
 ![5-1](https://github.com/user-attachments/assets/cb39ca3e-3ba6-4e80-b829-09f8cca0755d)
