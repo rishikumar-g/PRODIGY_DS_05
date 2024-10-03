@@ -1,4 +1,4 @@
-In this title the traffic accidents of us are calclated and visualized ........< br / >
+In this title the traffic accidents of us are calclated and visualized ........<br/>
 1-This says when and what time the most accidents happen and what is the severity of the accident.< br / >
 2-The output also says that at wha ttime of the day most acidents happened.< br / >
 3-A plot also tells what is the whether conditions of the day in which most accidents took place.< br / >
